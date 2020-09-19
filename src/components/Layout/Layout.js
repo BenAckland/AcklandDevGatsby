@@ -3,6 +3,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import type { Node as ReactNode } from 'react';
 import { useSiteMetadata } from '../../hooks';
+import withAppInsights from '../../AppInsights';
 import styles from './Layout.module.scss';
 
 type Props = {
@@ -40,4 +41,4 @@ const Layout = ({
   );
 };
 
-export default Layout;
+export default withAppInsights(Layout);
