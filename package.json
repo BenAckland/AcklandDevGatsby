@@ -38,6 +38,8 @@
     "disqus"
   ],
   "dependencies": {
+    "@microsoft/applicationinsights-react-js": "^3.0.3",
+    "@microsoft/applicationinsights-web": "^2.5.8",
     "applicationinsights": "^1.8.7",
     "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
