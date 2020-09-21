@@ -10,7 +10,7 @@ type Props = {
   children: ReactNode,
   title: string,
   description?: string,
-  socialImage?: string
+  socialImage?: object
 };
 
 const Layout = ({
