@@ -1,21 +1,20 @@
 ---
 template: post
-title: Testing the Art of Perfection
+title: Testing the Art of Perfection Again
 slug: perfecting-the-art-of-perfection
-socialImage: /media/image-2.jpg
+socialImage: "/media/image-2.jpg"
 draft: false
-date: 2016-09-01T23:46:37.121Z
-description: Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem,
-  at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus
-  orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui.
-  Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue
-  elementum.
+date: 2016-09-01T23:46:37.121+00:00
+description: Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at
+  interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus
+  et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit
+  dolor. Sed non quam. In vel mi sit amet augue congue elementum.
 category: Design Inspiration
 tags:
-  - Handwriting
-  - Learning to write
----
+- Handwriting
+- Learning to write
 
+---
 Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
