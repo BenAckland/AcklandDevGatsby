@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://ackland.dev',
   pathPrefix: '/',
   title: 'Blog by Ben Ackland',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -16,28 +16,37 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Tags',
+      path: '/tags'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Categories',
+      path: '/categories'
     }
+    // ,
+    // {
+    //   label: 'About me',
+    //   path: '/pages/about'
+    // },
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
     name: 'Ben Ackland',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    photo: '/ba.jpg',
+    bio: '',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'https://github.com/benackland',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'https://www.linkedin.com/in/benackland/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

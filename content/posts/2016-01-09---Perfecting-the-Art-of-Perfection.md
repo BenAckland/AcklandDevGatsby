@@ -3,7 +3,7 @@ template: post
 title: Testing the Art of Perfection Again
 slug: perfecting-the-art-of-perfection
 socialImage: "/media/image-2.jpg"
-draft: false
+draft: true
 date: 2016-09-01T23:46:37.121+00:00
 description: Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at
   interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus
