@@ -14,6 +14,7 @@ const ai = new ApplicationInsights({
     }
 })
 ai.loadAppInsights()
+ai.trackPageView();
 
 export default (Component) => withAITracking(reactPlugin, Component)
 export const appInsights = ai.appInsights
