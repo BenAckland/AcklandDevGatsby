@@ -4,7 +4,7 @@ title: Creating a GatsbyJs Blog On Azure Static Web Apps - Introduction
 slug: azure-static-web-apps-gatsbyjs-intro
 socialImage: /media/image-0.jpg
 draft: false
-date: 2020-09-26T13:43:00.000Z
+date: 2020-10-31T13:43:00.000Z
 description: Introduction to the blogging series.
 category: Tests
 tags:
