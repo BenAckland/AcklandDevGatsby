@@ -3,7 +3,7 @@ template: post
 title: Azure SQL - Adding Logins and Users to Replicated Databases
 slug: azure-sql-adding-logins-users-replicated-databases
 socialImage: /media/ian-battaglia-9drs5e_rguc-unsplash.jpg
-draft: false
+draft: true
 date: 2020-12-29T18:01:47.091Z
 description: Avoiding the error "The server principal "****" is not able to
   access the database "****" under the current security context." in replicated
